@@ -1,0 +1,10 @@
+D:\EX\EXx\bin\Debug\EXx.exe.config
+D:\EX\EXx\bin\Debug\EXx.exe
+D:\EX\EXx\bin\Debug\EXx.pdb
+D:\EX\EXx\obj\Debug\EXx.csproj.AssemblyReference.cache
+D:\EX\EXx\obj\Debug\EXx.Form1.resources
+D:\EX\EXx\obj\Debug\EXx.Properties.Resources.resources
+D:\EX\EXx\obj\Debug\EXx.csproj.GenerateResource.cache
+D:\EX\EXx\obj\Debug\EXx.csproj.CoreCompileInputs.cache
+D:\EX\EXx\obj\Debug\EXx.exe
+D:\EX\EXx\obj\Debug\EXx.pdb
